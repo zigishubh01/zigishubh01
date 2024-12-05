@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zigishubh01&label=Profile%20views&color=0e75b6&style=flat" alt="zigishubh01" /></p>
 
-- 🌱 <b>I’m currently learning</b> **FULL STACK WEB DEV., DSA with C, Game Dev.**<br><br>
+- 🌱 <b>I’m currently learning</b> **FULL STACK WEB DEV., DSA with C++, Game Dev.**<br><br>
 - 📫 <b>How to reach me :</b> **shubhamofficialacc01@gmail.com**<br><br>
 
 <h3 align="left">Connect with me:</h3>
