@@ -39,3 +39,9 @@
 
  <p align="center">
 <b> Show support by starring some of my repositories.</p>
+### 🐍 Contribution Snake Animation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Codngwthubaid/Codngwthubaid/output/snake.svg" alt="Snake animation" />
+</p>
+
+---
